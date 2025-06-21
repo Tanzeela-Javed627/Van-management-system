@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="abeehaoopproject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-mingw32" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/abeehaoopproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/abeehaoopproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw32" />
+			</Target>
+		</Build>
+		<Unit filename="BaseUser.cpp" />
+		<Unit filename="BaseUser.h" />
+		<Unit filename="Complain.cpp" />
+		<Unit filename="Complain.h" />
+		<Unit filename="Driver.cpp" />
+		<Unit filename="Driver.h" />
+		<Unit filename="Manager.cpp" />
+		<Unit filename="Manager.h" />
+		<Unit filename="Student.cpp" />
+		<Unit filename="Student.h" />
+		<Unit filename="TimeSlot.h" />
+		<Unit filename="VanInfo.cpp" />
+		<Unit filename="VanInfo.h" />
+		<Unit filename="VmsMain.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
